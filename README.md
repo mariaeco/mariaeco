@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hello, I am Maria Marcolina Cardoso!
 
-<!--
-**mariaeco/mariaeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Site](https://img.shields.io/website?label=StatisticaSenior&style=for-the-badge&url=https://statisticasenior.wixsite.com/consultoriastat/)](https://statisticasenior.wixsite.com/consultoriastat/) 
+[![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-marcolina-cardoso-045909156/)
 
-Here are some ideas to get you started:
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeco&show_icons=true&theme=codeSTACKr)](https://github.com/mariaeco/mariaeco/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologies
+
+<div style ="display: inline_block"><br/>
+    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
+    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align="center" height=50 width=50 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" height=50 width=50 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+</div>
+</br>
+
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeco&theme=blue-green)](https://github.com/mariaeco/mariaeco/)
+
+
+## History
+
+
+I am a Biologist with a PhD in Ecology and a Data Analyst, currently finishing a course in Data Science and Artificial Intelligence at UFPB 🎲🐟🌵🦕.
+
+Throughout my biology career, I discovered a strong interest in statistics and mathematical modeling. This interest led me to specialize in the field, and I now work as a Freelance Data Analysis Consultant while also exploring Development with Flask and Django.
+
+I started studying data science with the goal of expanding my horizons in modeling and machine learning. This new direction in my career has been a way to integrate my love for research and continuous discovery with the dynamic field of information technology (IT). Data science offers numerous opportunities to investigate and solve complex problems, keeping me motivated in my personal and professional development.
+
+Here, you will find many of my projects throughout my career, including:
+
+- Scripts and Statistical Models: Developing scripts in R and Python for advanced statistical analysis, including linear regression, hypothesis testing, and multivariate analyses.
+
+- Machine Learning Projects: Implementing machine learning algorithms for classification, regression, and clustering, with practical examples of applications in various fields.
+
+- Software Development: Projects developed in backend (Flask, Django), frontend (HTML, CSS), and integrating with databases and APIs.
+
+- SQL and Databases: Creating and managing relational databases, developing complex queries.
+
