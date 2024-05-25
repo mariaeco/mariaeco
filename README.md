@@ -9,13 +9,13 @@
 ## Tecnologies
 
 <div style ="display: inline_block"><br/>
-    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
     <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
-    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-    <img align="center" height=50 width=50 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-    <img align="center" height=50 width=50 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/>
-    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
-    <img align="center" height=30 width=40 alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+    <img align="center" height=50 width=50 alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" height=50 width=50 alt="Flask" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" />
+    <img align="center" height=30 width=40 alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
+    <img align="center" height=30 width=40 alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
 </div>
 </br>
 
