@@ -1,6 +1,5 @@
 # Hello, I am Maria Marcolina Cardoso!
 
-[![Site](https://img.shields.io/website?label=StatisticaSenior&style=for-the-badge&url=https://statisticasenior.wixsite.com/consultoriastat/)](https://statisticasenior.wixsite.com/consultoriastat/) 
 [![linkedin]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-marcolina-cardoso-045909156/)
 
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariaeco&show_icons=true&theme=codeSTACKr)](https://github.com/mariaeco/mariaeco/)
