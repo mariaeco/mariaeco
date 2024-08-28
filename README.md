@@ -18,7 +18,7 @@
 </div>
 </br>
 
-[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeco&theme=blue-green&langs_count=8&hide=javascript,powershell,roff))](https://github.com/mariaeco/mariaeco/)
+[![Maria's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeco&theme=blue-green&langs_count=10&hide=javascript,powershell,roff))](https://github.com/mariaeco/mariaeco/)
 
 
 ## History
