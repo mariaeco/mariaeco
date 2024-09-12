@@ -27,7 +27,7 @@ I am a Biologist with a PhD in Ecology and a Data Analyst, currently finishing a
 
 Throughout my biology career, I discovered a strong interest in statistics and mathematical modeling. This interest led me to specialize in the field, and I now work as a Freelance Data Analysis Consultant while also exploring Development with Flask and Django.
 
-I started studying data science with the goal of expanding my horizons in modeling and machine learning. This new direction in my career has been a way to integrate my love for research and continuous discovery with the dynamic field of information technology (IT). Data science offers numerous opportunities to investigate and solve complex problems, keeping me motivated in my personal and professional development.
+I started studying data science to expanding my horizons in modeling and machine learning. This new direction in my career has been a way to integrate my love for research and continuous discovery with the dynamic field of information technology (IT). Data science offers numerous opportunities to investigate and solve complex problems, keeping me motivated in my personal and professional development.
 
 Here, you will find many of my projects throughout my career, including:
 
